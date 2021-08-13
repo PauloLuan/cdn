@@ -9,13 +9,13 @@ Serves font files through jsDelivr's global content delivery network
 For the font Roboto, it's as easy as adding this to your CSS:
 
 ```css
-@import url('https://cdn.jsdelivr.net/npm/@pauloluan/fonts@1/serve/roboto.css');
+@import url('https://cdn.jsdelivr.net/gh/pauloluan/fonts-cdn/serve/roboto.css');
 ```
 
 or this to your HTML's `<head>`:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@pauloluan/fonts@1/serve/roboto.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/pauloluan/fonts-cdn/serve/roboto.css">
 ```
 
 ## Instructions for add new fonts
