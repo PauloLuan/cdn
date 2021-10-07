@@ -1,15 +1,15 @@
 {
-  "name": "@pauloluan/fonts-cdn",
+  "name": "@pauloluan/cdn",
   "version": "1.0.0",
   "description": "A fast CDN for fonts",
   "main": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pauloluan/fonts-cdn.git"
+    "url": "git+https://github.com/pauloluan/cdn.git"
   },
   "author": "Paulo Luan",
   "bugs": {
-    "url": "https://github.com/pauloluan/fonts-cdn/issues"
+    "url": "https://github.com/pauloluan/cdn/issues"
   },
-  "homepage": "https://github.com/pauloluan/fonts-cdn#readme"
+  "homepage": "https://github.com/pauloluan/cdn#readme"
 }
